@@ -1,0 +1,19 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "npx ts-node --files --transpile-only",
+    }
+
+    // Install TS
+    // Instale a extensão code-runner no vscode
+    // npm i typescript -D
+    // npm i ts-node -D
+    // Criar a pasta .vscode e dentro dela criar o arquivo settings.json
+    // Dentro do arquivo settings colocar  a seguinte config:
+    // {
+    //     "code-runner.executorMap": {
+    //         "typescript": "npx ts-node --files --transpile-only",
+    //     }
+    // }
+
+
+}
